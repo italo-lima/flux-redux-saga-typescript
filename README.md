@@ -1,4 +1,4 @@
-Repositório para uso de Redux Saga e Redux Persist com Typescript
+# Redux, Redux Saga e Redux Persist com Typescript
 
 ## Este repositório mostra como utilizar arquitetura flux com redux, redux saga e redux persist.
 
